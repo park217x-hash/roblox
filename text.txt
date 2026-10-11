@@ -1,7 +1,7 @@
 -- [ SHIELD: SENTINAL ]
 -- [ MODE: VM SHIELD ]
 -- [ ENGINE: CLASSIC ]
--- [ TIMESTAMP: 2026. 10. 12. ]
+-- [ TIMESTAMP: 2026. 10. 12. 2:41]
 
 --[[SKIDPROOF:{"version":1,"watermark":{"buildId":"sp_mv43stir_aisrwz","customerId":"LOCAL-PRIVATE","preset":"maxCover_VM","backend":"classic","fingerprint":"8b845d63","createdAt":"2026-10-11T17:35:10.707Z"},"features":["virtualize"],"outputHash":"3146cfb8","transformHash":"ede309be","productMode":"local-app","integrityPolicy":"warn","manifestHash":"f99c3fd0"}]]
 local __sp_guard_8b84={b="sp_mv43stir_aisrwz",f="8b845d63"};if __sp_guard_8b84.b~="sp_mv43stir_aisrwz" or __sp_guard_8b84.f~="8b845d63" then while true do end end;
