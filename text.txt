@@ -1,134 +1,92 @@
 -- [ SHIELD: SENTINAL ]
 -- [ MODE: VM SHIELD ]
 -- [ ENGINE: CLASSIC ]
--- [ TIMESTAMP: 2026. 10. 13. ]
+-- [ TIMESTAMP: 2026. 10. 16. ]
 
---[[SKIDPROOF:{"version":1,"watermark":{"buildId":"sp_mv6ldsx5_mkmrpr","customerId":"LOCAL-PRIVATE","preset":"maxCover_VM","backend":"classic","fingerprint":"8b845d63","createdAt":"2026-10-13T11:22:55.529Z"},"features":["virtualize"],"outputHash":"77d7bf8f","transformHash":"ede309be","productMode":"local-app","integrityPolicy":"warn","manifestHash":"475a7879"}]]
-local __sp_guard_8b84={b="sp_mv6ldsx5_mkmrpr",f="8b845d63"};if __sp_guard_8b84.b~="sp_mv6ldsx5_mkmrpr" or __sp_guard_8b84.f~="8b845d63" then while true do end end;
-local _0xf49edee9 = {0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,3,0,0,0,4,0,0,0,5,0,0,0,6,0,0,0,7,0,0,8,9,0,0,0,0}
-local _0xa959d93c = buffer.fromstring("\185\118\137\112\132\114\142\101\143\099\163\121\137\120\242\139\097\136\126\224\157\143\100\141\124\250\225\139\097\142\098\248\243\247\251\244\245\240\139\103\240\237\193\136\126\253\226\245\253\255\237\225\241\048\010\120\252\229\254\226\246\242\248\230\249\237\239\237\035\015\096\241\142\110\229\250\226\243\245\225\252\233\235\016\007\112\246\242\246\249\224\247\248\224\124\245\248\231\255\237\234\231\253\235\098\081\243\248\232\254\236\225\249\237\234\073\225\241\240\246\253\236\210\248\225\225\252\213\224\254\188\171\098\242\246\233\229\228\244\224\225\159\105\224\252\239\210\255\212\251\212\138\244\227\253\213\254\211\246\234\213\229\231\234\238\235\211\255\213\229\238\212\227\225\233\218\216")
-local _0xd798d2d2 = {6,7,6,10,4,7,6,4,5,5,4}
-local _0xbf0fa84b = {}
-local _0xff19dff8 = buffer.fromstring("\125\217\254\241\192\042\027\004\014\226\013\050\208\015\013\013\248\255\225\001\029\245\235\242\015\225\023\206\029\025\253\242\253\199\040\255\226\058\164\004\201\000\025\243\229\244\197\007\254\243\182\224\009\019\251\160\013\244\226\234\144\030\218\251")
-local _0x63137757 = {0,10,20,21,31,41,42,53,68,83,84,94,104,105,115,130,131,141,151,152,162,176}
-local _0x61b57310 = {0,1,0,2,0,0,0,0,0,3,4,5,0,6,7,8,9,0,10,11,12,0,13,14,15,0,16,17,18,0,19,20,21,0,22,0,0,0,0,0,0,0}
-local _0xbb016da9 = {}
-local _0x925eb665 = {"https://pastebin.com/raw/kcpwqG9x","https://pastebin.com/raw/3gV9L7Jf","https://pastebin.com/raw/8KqR9T36","https://pastebin.com/raw/q0QJQthG","https://pastebin.com/raw/tVZfkbFJ","https://pastebin.com/raw/0VMcDVx1","https://pastebin.com/raw/eYH5jDPP",true,false}
+--[[SKIDPROOF:{"version":1,"watermark":{"buildId":"sp_mvausy3y_53dy3l","customerId":"LOCAL-PRIVATE","preset":"maxCover_VM","backend":"classic","fingerprint":"8b845d63","createdAt":"2026-10-16T10:57:43.342Z"},"features":["virtualize"],"outputHash":"f08757cc","transformHash":"ede309be","productMode":"local-app","integrityPolicy":"warn","manifestHash":"0028a3d0"}]]
+local __sp_guard_8b84={b="sp_mvausy3y_53dy3l",f="8b845d63"};if __sp_guard_8b84.b~="sp_mvausy3y_53dy3l" or __sp_guard_8b84.f~="8b845d63" then while true do end end;
+local _0xab2e5046 = 239
+local _0x3da16d89 = {0,15,24,36,48,60}
+local _0x4c3905e7 = {0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,0,0,0,4,0,0,0,0,5,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}
+local _0x22a6f7a4 = {8,6,7,6,10,4,7,4,6,4,5,5,4}
+local _0x28fc65f9 = {0,10,20,21,31,41,42,53,68,83,84,94,104,105,115,130,131,141,151,152,162,176}
+local _0xf26bb7dd = 195
+local _0xb527bac8 = buffer.fromstring("\056\135\050\039\079\254\162\106\221\163\103\226\176\191\110\014\122\246\128\103\234\163\092\215\029\188\126\178\148\020\037\119\219\182\190\070\235\107\210\213\168\106\209\133\028\059\139\045\242\184\117\162\083\199\204\106\217\191\170\125\197\118\197\210\132\031\058\176\092\210\156\086\222\131\012")
+local _0x36305c58 = {0,8,14,21,27,37,41,48,52,58,62,67,72}
+local _0x0db0ce19 = {"https://pastebin.com/raw/ggPtLN4Q","https://pastebin.com/raw/3gV9L7Jf","https://pastebin.com/raw/rxd6bXEt","https://pastebin.com/raw/q0QJQthG","https://pastebin.com/raw/tVZfkbFJ","https://pastebin.com/raw/sB3528AW","https://pastebin.com/raw/eYH5jDPP",true,false}
+local _0xc2d44e4c = buffer.fromstring("\051\006\009\112\132\114\142\101\143\099\041\005\113\136\114\139\097\136\126\224\019\001\012\125\252\250\225\139\097\142\098\114\131\119\251\244\245\240\139\103\240\103\087\244\246\141\098\245\253\255\237\225\241\070\246\240\140\101\254\226\246\242\248\230\249\237\239\237\185\123\248\225\142\110\229\250\226\243\245\225\252\233\235\170\153\120\230\242\246\249\224\247\248\224\130\113\240\247\255\237\234\231\253\235\248\235\227\248\232\254\236\225\249\237\234\223\237\233\224\246\253\236\210\248\225\225\252\213\224\254\202\033\118\242\246\233\229\228\244\224\225\021\125\224\252\239\210\255\212\251\212\004\122\231\253\213\254\211\246\234\213\229\109\230\230\251\211\255\213\229\238\212\227\225\233\218\082")
+local _0xdc843f75 = {1,0,2,0,3,0,4,5,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,9,0,0,10,11,12,13}
+local _0x6b9417f0 = {0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,3,0,0,0,0,4,0,0,0,0,5,0,0,0,0,6,0,0,0,0,7,0,0,8,9,0,0,0,0}
+local _0xa0eff295 = {10,10,1,10,10,1,11,15,15,1,10,10,1,10,15,1,10,10,1,10,14,1}
+local _0x1682438b = {0,0,0,1,0,2,0,0,0,0,0,3,0,4,5,0,6,0,7,8,9,0,10,0,11,12,0,13,0,14,15,0,16,0,17,18,0,19,0,20,21,0,22,0,0,0,0,0,0,0}
+local _0xc6ebaa2f = buffer.fromstring("\247\201\030\241\199\052\226\029\134\040\025\244\195\055\130\059\247\241\236\053\221\176\244\226\017\224\012\152\254\244\244\255\224\012\252\243\250\098\012\237\016\094\015\230\241\059\167\001\116\246\236\219\081\226\031\193\007\250\061\233\244\225\046\242\243\253\249\024\255\250\212\232\008\240\252\241")
+local _0x21246953 = {15,9,12,12,12,15}
+local _0xed845c1b = buffer.fromstring("\009\026\054\173\009\026\050\173\009\026\058\185\008\026\038\185\013\028\050\129\011\026\058\185\010\026\038\185\013\028\050\129\013\026\058\185\012\026\038\185\013\028\050\129\015\026\058\185\002\026\052\157\014\026\050\145\001\026\046\145\000\026\042\185\014\022\058\177\003\026\034\185\011\028\058\213\010\026\062\209\011\030\050\213\008\026\054\209\011\024\054\213\009\026\054\209\008\026\054\237\251\229\039\001\013\028\050\129\002\026\062\185\008\030\054\129\009\026\050\173\009\026\058\185\005\026\038\185\013\028\050\129\011\026\058\185\004\026\038\185\013\028\050\129\013\026\058\185\007\026\038\185\013\028\050\129\015\026\058\185\002\026\052\157\014\026\050\145\001\026\046\145\000\026\042\185\014\022\058\177\006\026\034\185\011\028\058\213\010\026\062\209\011\030\050\213\008\026\054\209\011\024\054\213\009\026\054\209\008\026\054\237\251\229\039\001\013\028\050\129\025\026\062\185\008\030\054\129\009\026\050\173\009\026\058\185\024\026\038\185\013\028\050\129\011\026\058\185\027\026\038\185\013\028\050\129\013\026\058\185\009\026\038\173\026\026\034\185\002\026\046\185\012\022\038\129\029\026\034\185\025\026\046\185\012\022\038\129\013\028\050\129\015\026\058\185\002\026\052\157\014\026\050\145\001\026\046\145\000\026\042\185\014\022\058\177\028\026\034\185\011\028\058\213\010\026\062\209\011\030\050\213\008\026\054\209\011\024\054\213\009\026\054\209\008\026\054\237\251\229\039\001\013\028\050\129\031\026\062\185\008\030\054\129\009\026\050\173\009\026\058\185\030\026\038\185\013\028\050\129\011\026\058\185\017\026\038\185\013\028\050\129\013\026\058\185\016\026\038\185\013\028\050\129\015\026\058\185\002\026\052\157\014\026\050\145\001\026\046\145\000\026\042\185\014\022\058\177\019\026\034\185\011\028\058\213\010\026\062\209\011\030\050\213\008\026\054\209\011\024\054\213\009\026\054\209\008\026\054\237\251\229\039\001\013\028\050\129\018\026\062\185\008\030\054\129\009\026\050\173\009\026\058\185\021\026\038\185\013\028\050\129\011\026\058\185\020\026\038\185\013\028\050\129\013\026\058\185\023\026\038\185\013\028\050\129\015\026\058\185\002\026\052\157\014\026\050\145\001\026\046\145\000\026\042\185\014\022\058\177\022\026\034\185\011\028\058\213\010\026\062\209\011\030\050\213\008\026\054\209\011\024\054\213\009\026\054\209\008\026\054\237\251\229\039\001\013\028\050\129\041\026\062\185\008\030\054\129\009\026\050\173\009\026\058\185\040\026\038\185\013\028\050\129\011\026\058\185\043\026\038\185\013\028\050\129\013\026\058\185\042\026\038\185\013\028\050\129\015\026\058\185\002\026\052\157\014\026\050\145\001\026\046\145\000\026\042\185\014\022\058\177\045\026\034\185\011\028\058\213\010\026\062\209\011\030\050\213\008\026\054\209\011\024\054\213\009\026\054\209\008\026\054\237\251\229\039\001\013\028\050\129\044\026\062\185\008\030\054\129\009\026\050\173\009\026\058\185\047\026\038\185\013\028\050\129\011\026\058\185\046\026\038\185\013\028\050\129\013\026\058\185\033\026\038\185\013\028\050\129\015\026\058\185\002\026\052\157\014\026\050\145\001\026\046\145\000\026\042\185\014\022\058\177\032\026\034\185\011\028\058\213\010\026\062\209\011\030\050\213\008\026\054\209\011\024\054\213\009\026\054\209\008\026\054\237\251\229\039\001\013\028\050\129\035\026\062\185\008\030\054\129\009\026\050\209\034\026\034\145\008\026\046\209\013\030\034\213\012\026\062\209\015\026\058\209\014\026\038\209\011\026\042\209\010\026\022\209\013\026\018\209\010\028\042\213\014\026\038\209\094\026\036\241\014\026\034\209\001\026\046\209\015\026\002\209\011\026\014\185\007\000\026\009\001\026\002\145\011\026\014\185\007\000\006\009\005\012\050\041\008\026\052\157\037\026\030\185\009\026\052\157\036\026\030\185\003\026\026\209\036\026\006\185\005\026\002\209\039\026\114\145\015\026\122\209\013\026\102\185\029\060\126\009\011\030\114\213\024\026\010\209\038\026\118\185\025\004\050\041\008\026\052\157\037\026\014\185\009\026\052\157\036\026\014\185\023\026\012\241\034\026\126\145\015\026\102\209\013\026\098\185\028\050\122\009\013\030\126\213\027\026\010\209\026\026\118\209\029\026\114\209\006\026\102\209\025\026\098\209\024\026\110\209\010\028\102\213\029\026\114\209\006\026\112\241\029\026\126\209\028\026\122\209\026\026\086\209\001\026\094\145\013\026\090\185\018\046\082\009\016\042\050\041\008\026\052\157\037\026\106\185\009\026\052\157\036\026\106\185\011\026\104\241\037\026\086\185\017\026\002\209\009\026\052\157\224\229\055\157\002\026\052\157\015\026\114\209\013\026\126\185\027\056\010\009\001\026\114\145\013\026\126\185\027\056\118\009\025\004\050\041\008\026\052\157\037\026\014\185\009\026\052\157\036\026\014\185\007\026\002\209\002\026\010\209\008\026\008\241\004\026\014\209\009\026\052\157\006\026\014\209\001\026\012\241\056\026\114\145\057\026\126\185\027\056\010\009\015\026\114\209\015\026\126\185\027\056\118\009\011\030\010\213\006\026\010\209\009\026\052\157\168\229\055\157\009\026\054\237\009\026\054\057")
+local _0x9d476d13 = 159
 
-local function _0x42410d19(_0xa9ae10da, ...)
-  local _0xbb32d073, _0xe9a62202, _0x8c14a9bd, _0x1b852efc, _0x50372f8f, _0x775cda79, _0x9acab77b, _0x78b9992a, _0xe8532214 = _0xa9ae10da[3], _0xa9ae10da[7], _0xa9ae10da[1], _0xa9ae10da[2], _0xa9ae10da[12], _0xa9ae10da[18], _0xa9ae10da[6], _0xa9ae10da[10], _0xa9ae10da[15]
-  local _0xf497b4c8, _0x0673b435, _0x37ad878a, _0x1e969e5e, _0x2c6a860a, _0xc443e7ed, _0xfb6f7426, _0xb561bd14, _0xddfc8f27, _0xcbe21546 = _0xa9ae10da[13], _0xa9ae10da[4], _0xa9ae10da[8], _0xa9ae10da[11], _0xa9ae10da[17], _0xa9ae10da[5], _0xa9ae10da[14], _0xa9ae10da[9], _0xa9ae10da[19], _0xa9ae10da[16]
-  local _0xd151618f = getfenv()
-  local _0x53b62768 = _G
-  local _0x5d4e0ae4, _0x597b855b, _0x791f1cfa, _0xa0f87d01, _0x61ab2f70, _0x20402ce7, _0x36cf8449, _0x323971e6
-  _0x323971e6 = function(start_ip, init_stack, local_u, b, varargs)
-    b = b or _0xbb32d073
+local function _0x6cd46dc6(_0xa8229852, ...)
+  local _0xd7022759, _0x67b189ee, _0x053c156b, _0x53021263, _0x15e03287, _0x2f4ac0d3, _0x185ae845, _0x2ed76c33, _0x38eda41c = _0xa8229852[11], _0xa8229852[17], _0xa8229852[18], _0xa8229852[8], _0xa8229852[19], _0xa8229852[12], _0xa8229852[15], _0xa8229852[14], _0xa8229852[16]
+  local _0x4d095cb6, _0xbd141f91, _0x69e77b33, _0xcdae8c32, _0x51b1f3eb, _0x13326b1e, _0x2c8194dc, _0xb3c96118, _0x114ee91c, _0xd62706e9 = _0xa8229852[1], _0xa8229852[10], _0xa8229852[13], _0xa8229852[6], _0xa8229852[3], _0xa8229852[5], _0xa8229852[7], _0xa8229852[9], _0xa8229852[4], _0xa8229852[2]
+  local _0x3c2d5337 = getfenv()
+  local _0x47a4c8eb = _G
+  local _0x348d76e2, _0x68850de8, _0x21dfccfb, _0xf4ae857b, _0x2ed3cbf7, _0xa9fd9820, _0x0e21dc61, _0x971d7c9a
+  _0x68850de8 = function(index)
+    local _0x6e8a7d53 = _0x67b189ee[index]
+    if _0x6e8a7d53 and _0x6e8a7d53 ~= 0 then
+      return _0x053c156b[_0x6e8a7d53]
+    end
+    local _0x6afb08ad = _0x2ed3cbf7(index)
+    if _0x6afb08ad ~= nil then
+      return _0x6afb08ad
+    end
+    local _0x6afb08ad = _0xf4ae857b(index)
+    if _0x6afb08ad ~= nil then
+      return _0x6afb08ad
+    end
+    local _0x6afb08ad = _0x21dfccfb(index)
+    if _0x6afb08ad ~= nil then
+      return _0x6afb08ad
+    end
+    return nil
+  end
+  _0xa9fd9820 = function(name)
+    return _0x47a4c8eb[name] ~= nil and _0x47a4c8eb[name] or _0x3c2d5337[name]
+  end
+  _0x348d76e2 = function(_, ref, data_buffer, offsets, lengths, rolling_seed, numeric)
+    if not ref or ref == 0 then return nil end
+    local _0xefcdd517 = offsets[ref]
+    local _0xbdfd3342 = lengths[ref]
+    local _0xc517af2e = (rolling_seed + (ref * 17)) % 256
+    local _0xf94bb503 = {}
+    for pos = 0, _0xbdfd3342 - 1 do
+      local enc = buffer.readu8(data_buffer, _0xefcdd517 + pos)
+      local byte = bit32.bxor(enc, _0xc517af2e)
+      _0xf94bb503[pos + 1] = string.char(byte)
+      _0xc517af2e = (_0xc517af2e + enc + pos + ref) % 256
+    end
+    local _0x6afb08ad = table.concat(_0xf94bb503)
+    if numeric then
+      _0x6afb08ad = tonumber(_0x6afb08ad)
+    end
+    return _0x6afb08ad
+  end
+  _0x971d7c9a = function(start_ip, init_stack, local_u, b, varargs)
+    b = b or _0xd7022759
     local ip, stack, u = start_ip or 0, init_stack or {}, local_u or {regs=getfenv(), parent=nil}
     varargs = varargs or {}
     while ip < buffer.len(b) do
       local encrypted = buffer.readu32(b, ip)
-      local i = bit32.bxor(encrypted, _0xcbe21546)
+      local i = bit32.bxor(encrypted, _0xd62706e9)
       ip = ip + 4
       local op = bit32.rshift(i, 26)
       local a = bit32.band(bit32.rshift(i, 18), 0xFF)
       local b_val = bit32.band(bit32.rshift(i, 9), 0x1FF)
       local c_val = bit32.band(i, 0x1FF)
-      if op == 14 then
-      local target = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4); local snap = {};
-              for idx, value in pairs(stack) do snap[idx] = value end
-              local my_env = {regs = snap, parent = u};
-              stack[a+1] = function(...) return _0x323971e6(target, {...}, my_env, b, ...) end
-      elseif op == 12 then
-      stack[a+1] = _0x597b855b(bit32.band(i, 0x3FFFF) + 1)
-      elseif op == 27 then
-      stack[a+1] = -stack[b_val+1]
-      elseif op == 15 then
-      local ptr = u; for _=1,b_val do ptr = ptr.parent or ptr end; ptr.regs[c_val+1] = stack[a+1]
-      elseif op == 16 then
-      local target = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4); local my_env = {regs = stack, parent = u};
-              stack[a+1] = function(...) return _0x323971e6(target, {...}, my_env, b, ...) end
-      elseif op == 2 then
-      if (stack[b_val+1] <= stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
-      elseif op == 23 then
-      if not (not stack[a+1] == (c_val ~= 0)) then ip = ip + 4 end
-      elseif op == 10 then
-      stack[a+1][stack[b_val+1]] = stack[c_val+1]
-      elseif op == 43 then
-      if not stack[a+1] then ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4) end
-      elseif op == 36 then
-      stack[a+1] = (stack[b_val+1] or 0) * (stack[c_val+1] or 0)
-      elseif op == 35 then
-      stack[a+1] = (stack[a+1] or 0) - (stack[a+3] or 1); ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4)
-      elseif op == 33 then
-      stack[a+1] = stack[b_val+1] or stack[c_val+1]
-      elseif op == 26 then
-      stack[a+1] = varargs[b_val+1]
-      elseif op == 37 then
-      local name = _0x597b855b(bit32.band(i, 0x3FFFF) + 1); _0x36cf8449(name, stack[a+1]); name = nil
-      elseif op == 0 then
-      if (stack[b_val+1] > stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
-      elseif op == 11 then
-      local payload = bit32.band(i, 0x3FFFF); local keyRef = bit32.rshift(payload, 6); local argCount = bit32.band(bit32.rshift(payload, 3), 0x7); local retCount = bit32.band(payload, 0x7); local t = stack[a+1]; local key = _0x597b855b(keyRef + 1); local f = t[key]; key = nil;
-      if retCount <= 0 then
-        if argCount <= 0 then f() else f(unpack(stack, a+2, a+1+argCount)) end
-      elseif retCount == 1 then
-        stack[a+1] = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount))
-      elseif retCount == 2 then
-        local r1, r2 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2
-      elseif retCount == 3 then
-        local r1, r2, r3 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3
-      elseif retCount == 4 then
-        local r1, r2, r3, r4 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4
-      elseif retCount == 5 then
-        local r1, r2, r3, r4, r5 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5
-      elseif retCount == 6 then
-        local r1, r2, r3, r4, r5, r6 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6
-      elseif retCount == 7 then
-        local r1, r2, r3, r4, r5, r6, r7 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6; stack[a+7] = r7
-      end
-      elseif op == 25 then
-      stack[a+1] = not stack[b_val+1]
-      elseif op == 7 then
-      stack[a+1] = (stack[b_val+1] or 0) + (stack[c_val+1] or 0)
-      elseif op == 20 then
-      stack[a+1] = {}
-      elseif op == 42 then
-      local b_ret = bit32.band(i, 0x3FFFF); if b_ret == 0 then return unpack(stack, a+1, #stack) elseif b_ret <= 1 then return end; return unpack(stack, a+1, a+b_ret-1)
-      elseif op == 31 then
-      local t = stack[b_val+1]; stack[a+2] = t; stack[a+1] = t[stack[c_val+1]]
-      elseif op == 17 then
-      stack[a+1] = (stack[b_val+1] or 0) / (stack[c_val+1] or 1)
-      elseif op == 1 then
-      ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4)
-      elseif op == 6 then
-      stack[a+1] = (stack[b_val+1] or 0) - (stack[c_val+1] or 0)
-      elseif op == 40 then
-      stack[a+1] = #stack[b_val+1]
-      elseif op == 19 then
-      stack[a+1] = stack[bit32.band(i, 0x3FFFF) + 1]
-      elseif op == 38 then
-      local payload = bit32.band(i, 0x3FFFF); local nameRef = bit32.rshift(payload, 6); local argCount = bit32.band(bit32.rshift(payload, 3), 0x7); local retCount = bit32.band(payload, 0x7); local name = _0x597b855b(nameRef + 1); local f = _0x20402ce7(name); name = nil;
-      if retCount <= 0 then
-        if argCount <= 0 then f() else f(unpack(stack, a+2, a+1+argCount)) end
-      elseif retCount == 1 then
-        stack[a+1] = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount))
-      elseif retCount == 2 then
-        local r1, r2 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2
-      elseif retCount == 3 then
-        local r1, r2, r3 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3
-      elseif retCount == 4 then
-        local r1, r2, r3, r4 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4
-      elseif retCount == 5 then
-        local r1, r2, r3, r4, r5 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5
-      elseif retCount == 6 then
-        local r1, r2, r3, r4, r5, r6 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6
-      elseif retCount == 7 then
-        local r1, r2, r3, r4, r5, r6, r7 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6; stack[a+7] = r7
-      end
-      elseif op == 8 then
-      ip = buffer.len(b)
-      elseif op == 9 then
-      local f = stack[a+1]; if b_val <= 1 then
+      if bit32.band(op, 1) == 0 then
+        if op == 0 then
+        stack[a+1] = {}
+        elseif op == 30 then
+        local f = stack[a+1]; if b_val <= 1 then
              if c_val <= 1 then f()
              elseif c_val == 2 then stack[a+1] = f()
              elseif c_val == 3 then local r1, r2 = f(); stack[a+1] = r1; stack[a+2] = r2
@@ -149,114 +107,160 @@ local function _0x42410d19(_0xa9ae10da, ...)
              elseif c_val == 8 then local r1, r2, r3, r4, r5, r6, r7 = f(unpack(stack, a+2, a+b_val)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6; stack[a+7] = r7
              end
            end
-      elseif op == 41 then
-      local s = ''; for j = b_val+1, c_val+1 do s = s .. tostring(stack[j] or '') end; stack[a+1] = s
-      elseif op == 30 then
-      do end
-      elseif op == 4 then
-      if stack[a+1] then ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4) end
-      elseif op == 21 then
-      stack[a+1] = (stack[b_val+1] or 0) % (stack[c_val+1] or 1)
-      elseif op == 29 then
-      local ptr = u; for _=1,b_val do ptr = ptr.parent or ptr end; stack[a+1] = ptr.regs[c_val+1]
-      elseif op == 3 then
-      stack[a+1] = stack[b_val+1] and stack[c_val+1]
-      elseif op == 24 then
-      do end
-      elseif op == 32 then
-      if (stack[b_val+1] >= stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
-      elseif op == 34 then
-      stack[a+1] = (stack[b_val+1] or 0) ^ (stack[c_val+1] or 0)
-      elseif op == 22 then
-      do end
-      elseif op == 18 then
-      local step = stack[a+3] or 1; stack[a+1] = stack[a+1] + step; if (step > 0 and stack[a+1] <= stack[a+2]) or (step <= 0 and stack[a+1] >= stack[a+2]) then ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4); stack[a+4] = stack[a+1] end
-      elseif op == 39 then
-      if (stack[b_val+1] == stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
-      elseif op == 13 then
-      local name = _0x597b855b(bit32.band(i, 0x3FFFF) + 1); stack[a+1] = _0x20402ce7(name); name = nil
-      elseif op == 5 then
-      stack[a+1] = stack[b_val+1][stack[c_val+1]]
-      elseif op == 28 then
-      if (stack[b_val+1] < stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
+        elseif op == 40 then
+        if (stack[b_val+1] > stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
+        elseif op == 28 then
+        stack[a+1] = stack[b_val+1] and stack[c_val+1]
+        elseif op == 8 then
+        if stack[a+1] then ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4) end
+        elseif op == 6 then
+        local ptr = u; for _=1,b_val do ptr = ptr.parent or ptr end; stack[a+1] = ptr.regs[c_val+1]
+        elseif op == 38 then
+        stack[a+1] = varargs[b_val+1]
+        elseif op == 22 then
+        do end
+        elseif op == 34 then
+        local target = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4); local snap = {};
+              for idx, value in pairs(stack) do snap[idx] = value end
+              local my_env = {regs = snap, parent = u};
+              stack[a+1] = function(...) return _0x971d7c9a(target, {...}, my_env, b, ...) end
+        elseif op == 16 then
+        local b_ret = bit32.band(i, 0x3FFFF); if b_ret == 0 then return unpack(stack, a+1, #stack) elseif b_ret <= 1 then return end; return unpack(stack, a+1, a+b_ret-1)
+        elseif op == 42 then
+        stack[a+1] = (stack[b_val+1] or 0) - (stack[c_val+1] or 0)
+        elseif op == 20 then
+        local step = stack[a+3] or 1; stack[a+1] = stack[a+1] + step; if (step > 0 and stack[a+1] <= stack[a+2]) or (step <= 0 and stack[a+1] >= stack[a+2]) then ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4); stack[a+4] = stack[a+1] end
+        elseif op == 36 then
+        if (stack[b_val+1] >= stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
+        elseif op == 32 then
+        if (stack[b_val+1] < stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
+        elseif op == 26 then
+        local payload = bit32.band(i, 0x3FFFF); local nameRef = bit32.rshift(payload, 6); local argCount = bit32.band(bit32.rshift(payload, 3), 0x7); local retCount = bit32.band(payload, 0x7); local name = _0x68850de8(nameRef + 1); local f = _0xa9fd9820(name); name = nil;
+      if retCount <= 0 then
+        if argCount <= 0 then f() else f(unpack(stack, a+2, a+1+argCount)) end
+      elseif retCount == 1 then
+        stack[a+1] = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount))
+      elseif retCount == 2 then
+        local r1, r2 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2
+      elseif retCount == 3 then
+        local r1, r2, r3 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3
+      elseif retCount == 4 then
+        local r1, r2, r3, r4 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4
+      elseif retCount == 5 then
+        local r1, r2, r3, r4, r5 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5
+      elseif retCount == 6 then
+        local r1, r2, r3, r4, r5, r6 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6
+      elseif retCount == 7 then
+        local r1, r2, r3, r4, r5, r6, r7 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6; stack[a+7] = r7
+      end
+        elseif op == 10 then
+        stack[a+1] = (stack[b_val+1] or 0) ^ (stack[c_val+1] or 0)
+        elseif op == 24 then
+        stack[a+1] = -stack[b_val+1]
+        elseif op == 2 then
+        stack[a+1] = stack[b_val+1] or stack[c_val+1]
+        elseif op == 14 then
+        stack[a+1] = #stack[b_val+1]
+        elseif op == 4 then
+        local ptr = u; for _=1,b_val do ptr = ptr.parent or ptr end; ptr.regs[c_val+1] = stack[a+1]
+        elseif op == 18 then
+        local s = ''; for j = b_val+1, c_val+1 do s = s .. tostring(stack[j] or '') end; stack[a+1] = s
+        elseif op == 12 then
+        ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4)
+        end
+      else
+        if op == 29 then
+        stack[a+1] = (stack[a+1] or 0) - (stack[a+3] or 1); ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4)
+        elseif op == 33 then
+        if (stack[b_val+1] == stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
+        elseif op == 7 then
+        local t = stack[b_val+1]; stack[a+2] = t; stack[a+1] = t[stack[c_val+1]]
+        elseif op == 1 then
+        if not (not stack[a+1] == (c_val ~= 0)) then ip = ip + 4 end
+        elseif op == 23 then
+        if not stack[a+1] then ip = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4) end
+        elseif op == 17 then
+        if (stack[b_val+1] <= stack[c_val+1]) == (a ~= 0) then ip = ip + 4 end
+        elseif op == 13 then
+        stack[a+1] = not stack[b_val+1]
+        elseif op == 25 then
+        local name = _0x68850de8(bit32.band(i, 0x3FFFF) + 1); _0x0e21dc61(name, stack[a+1]); name = nil
+        elseif op == 11 then
+        stack[a+1][stack[b_val+1]] = stack[c_val+1]
+        elseif op == 37 then
+        ip = buffer.len(b)
+        elseif op == 3 then
+        do end
+        elseif op == 31 then
+        stack[a+1] = stack[bit32.band(i, 0x3FFFF) + 1]
+        elseif op == 19 then
+        stack[a+1] = (stack[b_val+1] or 0) / (stack[c_val+1] or 1)
+        elseif op == 9 then
+        stack[a+1] = (stack[b_val+1] or 0) * (stack[c_val+1] or 0)
+        elseif op == 15 then
+        local name = _0x68850de8(bit32.band(i, 0x3FFFF) + 1); stack[a+1] = _0xa9fd9820(name); name = nil
+        elseif op == 43 then
+        local target = ip + ((bit32.band(i, 0x3FFFF) - 0x1FFFF) * 4); local my_env = {regs = stack, parent = u};
+              stack[a+1] = function(...) return _0x971d7c9a(target, {...}, my_env, b, ...) end
+        elseif op == 35 then
+        stack[a+1] = (stack[b_val+1] or 0) + (stack[c_val+1] or 0)
+        elseif op == 39 then
+        stack[a+1] = (stack[b_val+1] or 0) % (stack[c_val+1] or 1)
+        elseif op == 5 then
+        stack[a+1] = _0x68850de8(bit32.band(i, 0x3FFFF) + 1)
+        elseif op == 41 then
+        stack[a+1] = stack[b_val+1][stack[c_val+1]]
+        elseif op == 21 then
+        local payload = bit32.band(i, 0x3FFFF); local keyRef = bit32.rshift(payload, 6); local argCount = bit32.band(bit32.rshift(payload, 3), 0x7); local retCount = bit32.band(payload, 0x7); local t = stack[a+1]; local key = _0x68850de8(keyRef + 1); local f = t[key]; key = nil;
+      if retCount <= 0 then
+        if argCount <= 0 then f() else f(unpack(stack, a+2, a+1+argCount)) end
+      elseif retCount == 1 then
+        stack[a+1] = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount))
+      elseif retCount == 2 then
+        local r1, r2 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2
+      elseif retCount == 3 then
+        local r1, r2, r3 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3
+      elseif retCount == 4 then
+        local r1, r2, r3, r4 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4
+      elseif retCount == 5 then
+        local r1, r2, r3, r4, r5 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5
+      elseif retCount == 6 then
+        local r1, r2, r3, r4, r5, r6 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6
+      elseif retCount == 7 then
+        local r1, r2, r3, r4, r5, r6, r7 = argCount <= 0 and f() or f(unpack(stack, a+2, a+1+argCount)); stack[a+1] = r1; stack[a+2] = r2; stack[a+3] = r3; stack[a+4] = r4; stack[a+5] = r5; stack[a+6] = r6; stack[a+7] = r7
+      end
+        elseif op == 27 then
+        do end
+        end
       end
     end
   end
-  _0x36cf8449 = function(name, value)
-    _0x53b62768[name] = value; _0xd151618f[name] = value
-  end
-  _0xa0f87d01 = function(index)
-    local _0xc87abd71 = _0xe8532214[index]
-    if _0xc87abd71 and _0xc87abd71 ~= 0 then
-      return _0x5d4e0ae4(_0xe8532214, _0xc87abd71, _0xf497b4c8, _0x0673b435, _0x37ad878a, _0x1e969e5e, false)
+  _0xf4ae857b = function(index)
+    local _0x976d91bf = _0x38eda41c[index]
+    if _0x976d91bf and _0x976d91bf ~= 0 then
+      return _0x348d76e2(_0x38eda41c, _0x976d91bf, _0x4d095cb6, _0xbd141f91, _0x69e77b33, _0xcdae8c32, false)
     end
     return nil
   end
-  _0x5d4e0ae4 = function(_, ref, data_buffer, offsets, lengths, rolling_seed, numeric)
-    if not ref or ref == 0 then return nil end
-    local _0xf697a7bc = offsets[ref]
-    local _0x451274a6 = lengths[ref]
-    local _0xe57160ad = (rolling_seed + (ref * 17)) % 256
-    local _0xd423b6e8 = {}
-    for pos = 0, _0x451274a6 - 1 do
-      local enc = buffer.readu8(data_buffer, _0xf697a7bc + pos)
-      local byte = bit32.bxor(enc, _0xe57160ad)
-      _0xd423b6e8[pos + 1] = string.char(byte)
-      _0xe57160ad = (_0xe57160ad + enc + pos + ref) % 256
-    end
-    local _0x543ad6ca = table.concat(_0xd423b6e8)
-    if numeric then
-      _0x543ad6ca = tonumber(_0x543ad6ca)
-    end
-    return _0x543ad6ca
-  end
-  _0x20402ce7 = function(name)
-    return _0x53b62768[name] ~= nil and _0x53b62768[name] or _0xd151618f[name]
-  end
-  _0x597b855b = function(index)
-    local _0x543ad6ca = _0x791f1cfa(index)
-    if _0x543ad6ca ~= nil then
-      return _0x543ad6ca
-    end
-    local _0x543ad6ca = _0xa0f87d01(index)
-    if _0x543ad6ca ~= nil then
-      return _0x543ad6ca
-    end
-    local _0x543ad6ca = _0x61ab2f70(index)
-    if _0x543ad6ca ~= nil then
-      return _0x543ad6ca
-    end
-    local _0x60ad36ed = _0xe9a62202[index]
-    if _0x60ad36ed and _0x60ad36ed ~= 0 then
-      return _0x8c14a9bd[_0x60ad36ed]
+  _0x21dfccfb = function(index)
+    local _0x264cfb3d = _0x53021263[index]
+    if _0x264cfb3d and _0x264cfb3d ~= 0 then
+      return _0x348d76e2(_0x53021263, _0x264cfb3d, _0x15e03287, _0x2f4ac0d3, _0x185ae845, _0x2ed76c33, false)
     end
     return nil
   end
-  _0x791f1cfa = function(index)
-    local _0x1060e176 = _0x1b852efc[index]
-    if _0x1060e176 and _0x1060e176 ~= 0 then
-      return _0x5d4e0ae4(_0x1b852efc, _0x1060e176, _0x50372f8f, _0x775cda79, _0x9acab77b, _0x78b9992a, false)
+  _0x0e21dc61 = function(name, value)
+    _0x47a4c8eb[name] = value; _0x3c2d5337[name] = value
+  end
+  _0x2ed3cbf7 = function(index)
+    local _0xf339e284 = _0x51b1f3eb[index]
+    if _0xf339e284 and _0xf339e284 ~= 0 then
+      return _0x348d76e2(_0x51b1f3eb, _0xf339e284, _0x13326b1e, _0x2c8194dc, _0xb3c96118, _0x114ee91c, true)
     end
     return nil
   end
-  _0x61ab2f70 = function(index)
-    local _0xe087ec71 = _0x2c6a860a[index]
-    if _0xe087ec71 and _0xe087ec71 ~= 0 then
-      return _0x5d4e0ae4(_0x2c6a860a, _0xe087ec71, _0xc443e7ed, _0xfb6f7426, _0xb561bd14, _0xddfc8f27, true)
-    end
-    return nil
-  end
-  return _0x323971e6(nil, nil, nil, _0xbb32d073, {n=select("#", ...), ...})
+  return _0x971d7c9a(nil, nil, nil, _0xd7022759, {n=select("#", ...), ...})
 end
 
-local _0x41ed0e5f = {0,6,13,19,29,33,40,46,50,55,60}
-local _0x24d8192a = 121
-local _0x219d65c8 = buffer.fromstring("")
-local _0x56e636a5 = 77
-local _0x8bed783b = 41
-local _0xd29f0e31 = {10,10,1,10,10,1,11,15,15,1,10,10,1,10,15,1,10,10,1,10,14,1}
-local _0x868c65b8 = buffer.fromstring("\044\040\073\244\044\040\077\244\044\040\069\148\045\040\089\148\040\046\077\140\046\040\069\148\047\040\089\148\040\046\077\140\040\040\069\148\039\040\075\160\041\040\077\144\042\040\081\144\043\040\085\148\043\036\069\216\036\040\093\148\046\046\069\128\047\040\065\232\046\044\077\128\045\040\073\232\046\042\073\128\044\040\073\232\045\040\073\012\222\215\088\228\040\046\077\140\037\040\065\148\045\044\073\140\044\040\077\244\044\040\069\148\038\040\089\148\040\046\077\140\046\040\069\148\039\040\089\148\040\046\077\140\040\040\069\148\039\040\075\160\041\040\077\144\042\040\081\144\043\040\085\148\043\036\069\216\032\040\093\148\046\046\069\128\047\040\065\232\046\044\077\128\045\040\073\232\046\042\073\128\044\040\073\232\045\040\073\012\222\215\088\228\040\046\077\140\033\040\065\148\045\044\073\140\044\040\077\244\044\040\069\148\034\040\089\148\040\046\077\140\046\040\069\148\044\040\089\244\035\040\093\148\037\040\081\148\041\036\089\140\060\040\093\148\033\040\081\148\041\036\089\140\040\046\077\140\040\040\069\148\039\040\075\160\041\040\077\144\042\040\081\144\043\040\085\148\043\036\069\216\061\040\093\148\046\046\069\128\047\040\065\232\046\044\077\128\045\040\073\232\046\042\073\128\044\040\073\232\045\040\073\012\222\215\088\228\040\046\077\140\062\040\065\148\045\044\073\140\044\040\077\244\044\040\069\148\063\040\089\148\040\046\077\140\046\040\069\148\056\040\089\148\040\046\077\140\040\040\069\148\039\040\075\160\041\040\077\144\042\040\081\144\043\040\085\148\043\036\069\216\057\040\093\148\046\046\069\128\047\040\065\232\046\044\077\128\045\040\073\232\046\042\073\128\044\040\073\232\045\040\073\012\222\215\088\228\040\046\077\140\058\040\065\148\045\044\073\140\044\040\077\244\044\040\069\148\059\040\089\148\040\046\077\140\046\040\069\148\052\040\089\148\040\046\077\140\040\040\069\148\039\040\075\160\041\040\077\144\042\040\081\144\043\040\085\148\043\036\069\216\053\040\093\148\046\046\069\128\047\040\065\232\046\044\077\128\045\040\073\232\046\042\073\128\044\040\073\232\045\040\073\012\222\215\088\228\040\046\077\140\054\040\065\148\045\044\073\140\044\040\077\244\044\040\069\148\055\040\089\148\040\046\077\140\046\040\069\148\048\040\089\148\040\046\077\140\040\040\069\148\039\040\075\160\041\040\077\144\042\040\081\144\043\040\085\148\043\036\069\216\049\040\093\148\046\046\069\128\047\040\065\232\046\044\077\128\045\040\073\232\046\042\073\128\044\040\073\232\045\040\073\012\222\215\088\228\040\046\077\140\050\040\065\148\045\044\073\140\044\040\077\244\044\040\069\148\051\040\089\148\040\046\077\140\046\040\069\148\012\040\089\148\040\046\077\140\040\040\069\148\039\040\075\160\041\040\077\144\042\040\081\144\043\040\085\148\043\036\069\216\013\040\093\148\046\046\069\128\047\040\065\232\046\044\077\128\045\040\073\232\046\042\073\128\044\040\073\232\045\040\073\012\222\215\088\228\040\046\077\140\014\040\065\148\045\044\073\140\044\040\077\232\015\040\093\144\045\040\081\232\040\044\093\128\041\040\065\232\042\040\069\232\043\040\089\232\046\040\085\232\047\040\105\232\040\040\109\232\047\046\085\128\043\040\089\232\123\040\091\008\043\040\093\232\036\040\081\232\042\040\125\232\044\040\113\148\034\050\101\176\042\040\125\144\044\040\113\148\034\050\121\176\032\062\077\056\045\040\075\160\008\040\097\148\044\040\075\160\009\040\097\148\038\040\101\232\009\040\121\148\032\040\125\232\010\040\013\144\042\040\005\232\046\040\025\148\056\014\001\176\046\044\013\128\061\040\117\232\011\040\009\148\060\054\077\056\045\040\075\160\008\040\113\148\044\040\075\160\009\040\113\148\050\040\115\008\015\040\001\144\042\040\025\232\046\040\029\148\057\000\005\176\040\044\001\128\062\040\117\232\063\040\009\232\056\040\013\232\035\040\025\232\060\040\029\232\061\040\017\232\047\046\025\128\056\040\013\232\035\040\015\008\056\040\001\232\057\040\005\232\063\040\041\232\042\040\033\144\046\040\037\148\055\028\045\176\053\024\077\056\045\040\075\160\008\040\021\148\044\040\075\160\009\040\021\148\046\040\023\008\008\040\041\148\052\040\125\232\044\040\075\160\197\215\072\160\039\040\075\160\042\040\013\232\046\040\001\148\062\010\117\176\042\040\013\144\046\040\001\148\062\010\009\176\060\054\077\056\045\040\075\160\008\040\113\148\044\040\075\160\009\040\113\148\034\040\125\232\039\040\117\232\045\040\119\008\033\040\113\232\044\040\075\160\035\040\113\232\036\040\115\008\005\040\013\144\004\040\001\148\062\010\117\176\042\040\013\232\040\040\001\148\062\010\009\176\046\044\117\128\035\040\117\232\044\040\075\160\141\215\072\160\044\040\073\012\044\040\073\132")
-local _0x9142afef = {1,0,2,0,3,4,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,8,9,10,11}
-local _0x4e336424 = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}
-local _0xa9ae10da = {_0x925eb665,_0x9142afef,_0x868c65b8,_0xbb016da9,_0xa959d93c,_0xd798d2d2,_0xf49edee9,_0xbf0fa84b,_0xd29f0e31,_0x8bed783b,_0x56e636a5,_0xff19dff8,_0x219d65c8,_0x63137757,_0x4e336424,2756257836,_0x61b57310,_0x41ed0e5f,_0x24d8192a}
-return _0x42410d19(_0xa9ae10da, ...)
+local _0xa8229852 = {_0xb527bac8,2906003977,_0x1682438b,_0xab2e5046,_0xc2d44e4c,_0xf26bb7dd,_0x28fc65f9,_0xdc843f75,_0xa0eff295,_0x3da16d89,_0xed845c1b,_0x36305c58,_0x21246953,_0x9d476d13,_0x22a6f7a4,_0x4c3905e7,_0x6b9417f0,_0x0db0ce19,_0xc6ebaa2f}
+return _0x6cd46dc6(_0xa8229852, ...)
